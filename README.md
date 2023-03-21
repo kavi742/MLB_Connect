@@ -4,3 +4,5 @@ MLB Connect game based off of Jomboy Media Youtube series
 ## March 19 2023
 Researched APIs to query. To get the teams that a player has been on.
 https://github.com/toddrob99/MLB-StatsAPI
+## March 21 2023
+Tested API functions
